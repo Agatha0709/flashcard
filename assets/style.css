@@ -12,7 +12,10 @@ height: 20rem;
 background-color: rgb(160, 5, 111);
 height: 20rem;
 }
-
+.cartao__conteudo {
+text-align: center;
+height: 100%;
+}
 footer {
 background-color: black;
 color: white;
