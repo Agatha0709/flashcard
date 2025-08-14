@@ -11,12 +11,12 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'desfile',
+    'qual o desfile de moda com maior impacto global?',
+    'é a Semana de Moda em Paris(Paris Fashion Week)'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'desfiles',
+    'qual o maior desfile de moda do mundo?',
+    'o maior desfile de moda em questão de tamanho ou espaço é o SPFW'
 )
