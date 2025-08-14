@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Desfile',
+    'em que ano foi o SPFW em que Samuel Cirnansck faz a representação sobre casamento forçado?',
+    '2011, na edição verão2012, com participação da modelo Vivi Orth'
 )
 
 criaCartao(
