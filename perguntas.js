@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'moda',
+    'qual vestido Lady Gaga usou no MTV Video Music Awards em 2010?',
+    'um vestido de carne, que gerou muita polêmica entre os telespectadores'
 )
 
 criaCartao(
